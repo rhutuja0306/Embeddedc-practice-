@@ -1,6 +1,6 @@
 // Program: Array Traversal using Pointer
 // Concept: Pointer Arithmetic
-// Description: This program prints values and addresses using pointer
+// Description: This program prints values and addresses using pointer 
 
 #include <stdio.h>
 #include <stdint.h>
